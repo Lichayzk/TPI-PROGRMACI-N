@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #690303; /* Rojo similar al de la imagen */
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    padding: 27px;
+    border-radius: 10px;
+    box-shadow: 20px 10px 4px rgb(20, 19, 19);
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #690303; /* Rojo */
+}
+.logoimg{
+width: 205px;
+
+
+}
+
+
+
+
+input {
+    
+    width: 100%;
+    padding: 5px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.BotonINICIAR{
+    background-color: #690303;
+border: none;
+color: aliceblue;
+padding: 4px 20px;
+text-decoration: none;
+font-size: 1,4rem;
+border-radius: 12PX;
+
+
+}

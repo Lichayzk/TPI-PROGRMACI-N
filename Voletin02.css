@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #690303; /* Rojo similar al de la imagen */
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: #860900; /* Un tono de rojo más oscuro */
+}
+
+main {
+    padding: 40px;
+
+}
+
+.img {
+    width: 300px;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 100px;
+}
+.img1 {
+    width: 200px;
+   border-radius: 200%;
+box-shadow: 5px 8px 12px black;
+
+}
+.img2 {
+    width: 200px;
+    border-radius: 200%;
+ box-shadow: 5px 8px 12px black;
+ 
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img3 {
+    width: 200px;
+    border-radius: 200%;
+ box-shadow: 5px 8px 12px black;
+ 
+    
+}
+.iniciodeseccion {
+    background-color: rgb(241, 237, 237);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 22px;
+    text-decoration: none;
+    font-size: 1,4rem;
+    border-radius: 12PX
+
+
+
+}
+.Boton{
+
+background-color: black;
+border: none;
+color: aliceblue;
+padding: 5px 22px;
+text-decoration: none;
+font-size: 1,4rem;
+border-radius: 12PX;
+}
+.books {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 20px;
+    font-size: 14px;
+}
